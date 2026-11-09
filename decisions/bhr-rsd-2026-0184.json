@@ -2,15 +2,15 @@
   "record_id": "OSD-2026-0184",
   "artifact_title": "Bandwise Harmonic Reconstruction for Wideband Speech Restoration",
   "artifact_identifier": "RSD-2026-0184",
-  "selected_repository": "knobbyintens/bandwise-harmonic-reconstruction-q7k2",
+  "selected_repository": "wholetherapi/bandwise-harmonic-reconstruction-q7k2",
   "selected_open_issues": 2,
   "excluded_candidates": [
     {
-      "repository": "knobbyintens/bandwise-harmonic-eq-q7k2",
+      "repository": "wholetherapi/bandwise-harmonic-eq-q7k2",
       "reason": "Unrelated product: a bandwise harmonic EQ/exciter audio plugin for music production; its README states it contains no speech restoration code and no technical-report identifier."
     },
     {
-      "repository": "knobbyintens/bandwise-harmonic-codec-q7k2",
+      "repository": "wholetherapi/bandwise-harmonic-codec-q7k2",
       "reason": "Implements a different artifact: Bandwise Harmonic Coding (BHC) under report RSD-2025-0311; its README explicitly states it does not implement RSD-2026-0184."
     }
   ],
